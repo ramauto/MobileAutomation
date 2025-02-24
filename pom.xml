@@ -21,7 +21,6 @@
             <artifactId>java-client</artifactId>
             <version>9.2.0</version>
         </dependency>
-
         <!-- Extent Reports -->
         <dependency>
             <groupId>com.aventstack</groupId>
